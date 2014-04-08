@@ -10,6 +10,11 @@ First-up is marker interfaces which just allow you to mark a class, package or o
 
 Google exposes the @VisibleForTesting to indicate that something (e.g. a method) has been made package-private to enable testing.  Not a great practice for greenfield development, but very good for working with legacy code.
 
+There's also the @Beta annotation.
+
+* See - http://java.dzone.com/articles/two-generally-useful-guava
+
+
 Some example I provide here in this project are:
 * @WorkInProgress - for a partially complete class or method that you need to checkin.  You can find that
 

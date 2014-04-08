@@ -3,8 +3,8 @@ java-annotations
 
 There's some useful stuff that can be done with annotations.
 
-Marker Interfaces
------------------
+Marker Annotations
+------------------
 
 First-up is marker interfaces which just allow you to mark a class, package or other construct as belonging to something or meant for a particular purpose.
 
